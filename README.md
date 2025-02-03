@@ -1,4 +1,4 @@
-# 嵌入式相关开源项目、库、资料------持续更新中----  liumouyuan.cn <img src="https://i.ibb.co/LXX8B7Bx/c29cf481b8250ecc93bf6942c7b1e0c.jpg" width="25" height="auto">
+# 嵌入式相关开源项目、库、资料------持续更新中----  liumouyuan.cn <img src="https://i.ibb.co/LXX8B7Bx/c29cf481b8250ecc93bf6942c7b1e0c.jpg" width="19" height="auto">
 
 学习初期最难找的就是找学习资料了，本贴精心汇总了一些嵌入式相关资源，包括但不限于编程语言、单片机、开源项目、物联网、操作系统、Linux、计算机等资源，并且在不断地更新中，致力于打造全网最全的嵌入式资料库。有好的嵌入式相关资源的朋友欢迎做贡献，利人利己。
 
