@@ -546,7 +546,7 @@
 
 关注微信公众号**嵌入式大杂烩**，查看更多资源。
 
-![](https://zhengn-blog-imgs.oss-cn-shenzhen.aliyuncs.com/images/202205232326684.jpg)
+![](https://i.ibb.co/LXX8B7Bx/c29cf481b8250ecc93bf6942c7b1e0c.jpg)
 
 
 
